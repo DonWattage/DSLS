@@ -1,0 +1,22 @@
+/*************** Tag SE;lector ****************/
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: #1746A2;
+  text-align: center;
+
+}
+
+
+
+/******************Class Selector**************************/
+.title {
+  font-size: 3em;
+  margin-top: 100px;
+  display: block;
+}
+.text-center {
+  text-align: center;
+}
